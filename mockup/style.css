@@ -1,0 +1,9 @@
+@import url("components/card.css");
+.container {
+  max-width: 1000px;
+  margin: 50px auto;
+}
+
+.text-center {
+  text-align: center;
+}
